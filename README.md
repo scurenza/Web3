@@ -13,6 +13,12 @@ A basic contract to store a favorite number and a list of people.
 
 ---
 
+### 📦📦 [StorageFactory](https://github.com/scurenza/StorageFactory)
+Two contracts that show how to deploy a contract from another contract and concepts of inheritance and polymorfism
+- ✅ Deployed on RemixVM
+
+---
+
 ## 📌 Networks Used
 
 - zkSync Sepolia (ZK-Rollup Testnet)

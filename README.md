@@ -9,7 +9,7 @@ A curated list of my Solidity projects and smart contracts, deployed and tested 
 ### 📦 [SimpleStorage](https://github.com/federicochiarenza/SimpleStorage)
 A basic contract to store a favorite number and a list of people.
 - ✅ Deployed on zkSync Sepolia
-- 🔗 [Explorer Link](https://github.com/scurenza/SimpleStorage)
+- 🔗 [Explorer Link](https://sepolia.explorer.zksync.io/address/0x1A20Aeb7EdA7a7A297Bc795b55B99804BD394bb9)
 
 ---
 
@@ -18,6 +18,11 @@ Two contracts that show how to deploy a contract from another contract and conce
 - ✅ Deployed on RemixVM
 
 ---
+
+### 💰 [FundMe](https://github.com/scurenza/FundMe)
+A simple crowdfunding smart contract with a library to convert ETH to USD that use Chainlink AggregatorV3Interface
+- ✅ Deployed on ETHSepolia
+- 🔗 [Explorer Link](https://sepolia.etherscan.io/address/0x52BcF2ad3E0589C784c2843232Cf91720Bb1756D)
 
 ## 📌 Networks Used
 

@@ -24,17 +24,23 @@ A simple crowdfunding smart contract with a library to convert ETH to USD that u
 - ✅ Deployed on ETHSepolia
 - 🔗 [Explorer Link](https://sepolia.etherscan.io/address/0x52BcF2ad3E0589C784c2843232Cf91720Bb1756D)
 
-## 📌 Networks Used
-
-- zkSync Sepolia (ZK-Rollup Testnet)
-- Ethereum Sepolia
-- Tenderly Sepolia
-
 ---
+
 ### 🎰 [Foundry Raffle - A Provably Fair Lottery on Ethereum Sepolia](https://github.com/scurenza/foundry-raffle)
 A raffle contract done and tested using Foundry. For the randomness I've implemented VRFv2.5 and to pick a winner I've used Automation, both by Chainlink
 - ✅ Deployed on ETHSepolia
 - 🔗 [Explorer Link](https://sepolia.etherscan.io/address/0xbd64bB91260e10a2060EFBf42dD45FE2Ce5BCe58)
+
+---
+
+  ## 📌 Networks Used
+
+- zkSync Sepolia (ZK-Rollup Testnet)
+- Ethereum Sepolia
+- Tenderly Sepolia
+- Anvil Testnet
+
+---
 
 ## 💼 Author
 

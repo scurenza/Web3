@@ -33,6 +33,13 @@ A raffle contract done and tested using Foundry. For the randomness I've impleme
 
 ---
 
+### 🐶 [Foundry NFT - A Contract to mint two kinds of NFT's](https://github.com/scurenza/foundry-nft)
+A NFT contract with two types of NFT, one hosted on IPFS and one hosted onchain
+- ✅ Deployed on ETHSepolia
+- 🔗 [Explorer Link](https://sepolia.etherscan.io/address/0xbd64bB91260e10a2060EFBf42dD45FE2Ce5BCe58)
+
+--- 
+
   ## 📌 Networks Used
 
 - zkSync Sepolia (ZK-Rollup Testnet)

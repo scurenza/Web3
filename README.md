@@ -6,7 +6,7 @@ A curated list of my Solidity projects and smart contracts, deployed and tested 
 
 ## 🔗 Repositories
 
-### 📦 [SimpleStorage](https://github.com/federicochiarenza/SimpleStorage)
+### 📦 [SimpleStorage](https://github.com/scurenza/SimpleStorage)
 A basic contract to store a favorite number and a list of people.
 - ✅ Deployed on zkSync Sepolia
 - 🔗 [Explorer Link](https://sepolia.explorer.zksync.io/address/0x1A20Aeb7EdA7a7A297Bc795b55B99804BD394bb9)
